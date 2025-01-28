@@ -141,7 +141,7 @@ Required packages:
 ### 1. Basic Usage
 
 ```python
-from supply_chain_model import SupplyChainModel
+from scm import SupplyChainModel
 
 # Initialize model
 scm = SupplyChainModel()
