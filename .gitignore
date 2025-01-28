@@ -1,0 +1,8 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore exported_models folders
+exported_models/
